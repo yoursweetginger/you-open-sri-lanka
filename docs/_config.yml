@@ -1,0 +1,18 @@
+title: You open - Sri-Lanka
+email: komradaxon@gmail.com
+description: Information about Sri-Lanka for ru-speak tourists and expats.
+# baseurl: "" # the subpath of your site, e.g. /blog
+domain: sri-lanka.you-open.com
+url: "https://sri-lanka.you-open.com/"
+# twitter_username: jekyllrb
+github_username:  ComradeAx0n
+
+# Build settings
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+
+show_downloads: false
+google_analytics: G-QH27QWY0H1
