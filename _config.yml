@@ -1,0 +1,9 @@
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+# plugins:
+# - jekyll-remote-theme
+
+title: You open - Sri-Lanka
+description: Information about Sri-Lanka for ru-speak tourists and expats.
+
+show_downloads: false
+google_analytics: G-QH27QWY0H1
