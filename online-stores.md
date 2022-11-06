@@ -2,7 +2,7 @@
 
 layout: default
 title: Интернет-магазины
-nav_order: 10
+nav_order: 13
 permalink: /online-stores
 
 ---
