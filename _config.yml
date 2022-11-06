@@ -24,3 +24,6 @@ gh_edit_repository: "https://github.com/ComradeAx0n/you-open-sri-lanka"
 gh_edit_branch: "master"
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree"
+
+# На данный момент тема не поддерживает языки кроме английского. Ждем обновления
+search_enabled: false
