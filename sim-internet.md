@@ -6,6 +6,16 @@ permalink: /sim-internet
 ---
 
 # Сим-карты и интернет
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Мобильная связь и интернет
 

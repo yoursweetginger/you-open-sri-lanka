@@ -8,6 +8,16 @@ permalink: /medicine
 ---
 
 # Медицина
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Рекомендуется на время пребывания в Шри-Ланке обзавестись медицинским страховым полисом.
 

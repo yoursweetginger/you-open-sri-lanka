@@ -8,6 +8,16 @@ permalink: /emergency-services
 ---
 
 # Экстренные службы
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Полиция
 

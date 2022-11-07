@@ -8,6 +8,16 @@ permalink: /online-stores
 ---
 
 # Интернет-магазины
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Продукты
 
