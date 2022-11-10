@@ -8,6 +8,16 @@ permalink: /visa
 ---
 
 # Виза
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Оформление
 

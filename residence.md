@@ -8,6 +8,16 @@ permalink: /residence
 ---
 
 # Жилье
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Сервисы для аренды жилья такие как [airbnb](https://www.airbnb.com/), [Booking](https://www.booking.com/) и прочее здесь работают. Оплата принимается MasterCard/Visa не санкционных банков.  
 Так же вы можете договорите арендодателем, что оплату вы произведете наличными по прибытию.  

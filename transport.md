@@ -8,6 +8,16 @@ permalink: /transport
 ---
 
 # Транспорт
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Трансфер
 
@@ -65,9 +75,10 @@ permalink: /transport
 Вождение без прав карается штрафом, но на деле вы можете договориться с полицейским на месте за 1000-5000 LKR, как наторгуйтесь.  
 
 Помимо этого у вас должны быть документы:
-    - [Действующая лицензия на транспортное средство](files/images/vehicle_revenue_license.jpg)
-    - [Страховка на транспортное средство](files/images/certificate_of_insurance.jpg)
-    - [Пройденный тест на выбросы](files/images/vehicle_emission_test_certificate.jpg)
+
+- [Действующая лицензия на транспортное средство](/assets/images/vehicle_revenue_license.jpg)
+- [Страховка на транспортное средство](/assets/images/certificate_of_insurance.jpg)
+- [Пройденный тест на выбросы](/assets/images/vehicle_emission_test_certificate.jpg)
 
 <!-- Добавить пункт про машину -->
 

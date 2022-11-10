@@ -8,6 +8,16 @@ permalink: /things
 ---
 
 # Вещи в поездку
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Содержание
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Что лучше с собой взять
 
