@@ -19,6 +19,9 @@ const config = {
   organizationName: 'ComradeAx0n', // Usually your GitHub org/user name.
   projectName: 'you-open-sri-lanka', // Usually your repo name.
 
+  // Recomended to set for GitHub Pages deployment
+  trailingSlash: true,
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -57,6 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        hideOnScroll: true,
         title: 'You open - Sri-Lanka',
         logo: {
           alt: 'You open - Sri-Lanka Logo',
@@ -72,8 +76,9 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ComradeAx0n/you-open-sri-lanka',
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
