@@ -36,19 +36,26 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // Docs only mode
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
-        },
+        // blog: {
+        //   id: 'events',
+        //   path: './events',
+        //   // blogTitle: 'Эвенты',
+        //   // blogDescription: 'Эвенты',
+        //   routeBasePath: 'events',
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -72,13 +79,14 @@ const config = {
           src: 'img/Flag_of_Sri_Lanka.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Гайд',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Гайд',
+          // },
+          // Не работает блог если поменять путь
+          // {to: './events', label: 'Эвенты', position: 'left'},
           {
             href: 'https://github.com/ComradeAx0n/you-open-sri-lanka',
             position: 'right',
@@ -136,6 +144,26 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // plugins: [
+      //   [
+      //     '@docusaurus/plugin-content-blog',
+      //     {
+      //       /**
+      //        * Required for any multi-instance plugin
+      //        */
+      //       id: 'events-blog',
+      //       /**
+      //        * URL route for the blog section of your site.
+      //        * *DO NOT* include a trailing slash.
+      //        */
+      //       routeBasePath: 'events',
+      //       /**
+      //        * Path to data on filesystem relative to site dir.
+      //        */
+      //       path: './events',
+      //     },
+      //   ],
+      // ]
     }),
 };
 
