@@ -63,6 +63,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: './static/img/sri-lanka_flag.png',
       navbar: {
         hideOnScroll: true,
         title: 'You open - Sri-Lanka',
