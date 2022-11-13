@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Экскурсии
 sidebar_position: 1
-# permalink: /tours
+description: Туры, экскурсии
 ---
 
 # Эксукурсии

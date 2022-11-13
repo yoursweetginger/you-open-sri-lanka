@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Достопримечательности
 sidebar_position: 2
-# permalink: /attractions
+description: Поиск и список интересных мест
 ---
 
 # Достопримечательности

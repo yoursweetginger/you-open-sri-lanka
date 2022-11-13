@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Услуги
 sidebar_position: 4
-# permalink: /services
+description: Цены, виды и поиск услуг
 ---
 
 # Услуги

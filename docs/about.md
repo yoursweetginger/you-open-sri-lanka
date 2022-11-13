@@ -1,8 +1,6 @@
 ---
-# layout: page
-# title: О гайде
-# nav_order: 99
-# permalink: /about/
+sidebar_position: 99
+description: Информация о гайде
 ---
 
 # О гайде
