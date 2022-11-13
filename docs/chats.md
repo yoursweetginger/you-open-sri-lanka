@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Чаты
 sidebar_position: 14
-# permalink: /chats
+description: Известные чаты
 ---
 
 # Чаты

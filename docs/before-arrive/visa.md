@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Виза
 sidebar_position: 2
-# permalink: /visa
+description: Как оформить визу
 ---
 
 # Виза

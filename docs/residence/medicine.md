@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Медицина
 sidebar_position: 5
-# permalink: /medicine
+description: Болезни, лекарства и прочие вопросы здоровья
 ---
 
 # Медицина

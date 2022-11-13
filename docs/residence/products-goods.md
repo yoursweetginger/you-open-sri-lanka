@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Продукты и товары
 sidebar_position: 7
-# permalink: /products-goods
+description: Где и какие товары можно найти на Шри-Ланке
 ---
 
 # Продукты и товары

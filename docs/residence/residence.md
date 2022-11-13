@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Жилье
 sidebar_position: 1
-# permalink: /residence
+description: Поиск, аренда, условия
 ---
 
 # Жилье

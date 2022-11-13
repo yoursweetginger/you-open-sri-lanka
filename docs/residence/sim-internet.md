@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Сим-карты и интернет
 sidebar_position: 3
-# permalink: /sim-internet
+description: Операторы, тарифы, покрытие сетей
 ---
 
 # Сим-карты и интернет

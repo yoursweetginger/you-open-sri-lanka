@@ -1,8 +1,6 @@
 ---
-# layout: default
-# title: Интернет-магазины
 sidebar_position: 8
-# permalink: /online-stores
+description: Интернет-магазины продуктов, электроники, одежды и прочее
 ---
 
 # Интернет-магазины
