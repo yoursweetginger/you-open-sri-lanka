@@ -5,10 +5,9 @@
 
 ## Используемый стек
 
-- [GitHub Pages](https://pages.github.com/) ([Jekyll](https://jekyllrb.com/))
-- [Markdown](https://www.markdownguide.org/) ([kramdown](https://kramdown.gettalong.org/index.html))
-- [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
-- [Liquid](https://shopify.github.io/liquid/)
+- [GitHub Pages](https://pages.github.com/)
+- [Docusaurus](https://docusaurus.io/)
+- [Markdown](https://www.markdownguide.org/) [MDX](https://mdxjs.com/)
 
 ## Внести свой вклад
 
