@@ -12,3 +12,4 @@ description: Информация о гайде
 - [Hikka.ru](https://hikka.ru/)
 - [Телеграм канал - Шри-Ланка (sun-lanka.ru)](https://t.me/Shri_Lanka_RU)
 - [Lanka.ru](https://lanka.ru/)
+- [Солнце Шри Ланки](https://sun-lanka.ru/)
