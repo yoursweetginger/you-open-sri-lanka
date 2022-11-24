@@ -29,7 +29,7 @@ description: Операторы, тарифы, покрытие сетей
 
 ### eSIM
 
-На данный момент eSIM есть только у Dialog. [Инструкция по настройке.](https://www.dialog.lk/esim)
+На данный момент eSIM есть только у [Dialog](https://www.dialog.lk/esim) и [Mobitel](https://www.mobitel.lk/mobitel-esim).
 
 ### Пополнение баланса
 
