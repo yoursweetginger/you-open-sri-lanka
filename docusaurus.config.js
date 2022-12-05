@@ -165,6 +165,10 @@ const config = {
       //   ],
       // ]
     }),
+
+  plugins:[[ require.resolve('docusaurus-lunr-search'), {
+    languages: ['en', 'ru'] // language codes
+  }]],
 };
 
 module.exports = config;
