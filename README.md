@@ -7,7 +7,9 @@
 
 - [GitHub Pages](https://pages.github.com/)
 - [Docusaurus](https://docusaurus.io/)
-- [Markdown](https://www.markdownguide.org/) [MDX](https://mdxjs.com/)
+- [Markdown](https://www.markdownguide.org/)
+- [MDX](https://mdxjs.com/)
+- Для поиска [docusaurus-lunr-search](https://github.com/praveenn77/docusaurus-lunr-search)
 
 ## Внести свой вклад
 
