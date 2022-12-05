@@ -1,4 +1,4 @@
-# Поезда
+# Поезда {#train}
 
 - [Официальный сайт](http://www.railway.gov.lk/web/)
 - [Расписание поездов (1-й вариант)](https://slr.malindaprasad.com/index.php)

@@ -2,7 +2,7 @@
 description: Все про использование газа
 ---
 
-# Газ
+# Газ {#gas}
 
 В Шри-Ланке компании кто осуществляет продажу и заправку газа:
 
@@ -11,7 +11,7 @@ description: Все про использование газа
 
 [Сайт объявлений, где можно купить газовые балоны.](https://ikman.lk/en/ads/sri-lanka/gas)
 
-## Litro Gas (синие баллоны)
+## Litro Gas (синие баллоны) {#litro-gas}
 
 [Адреса и контактный номер пунктов заправки газа](https://www.litrogas.com/dealer-locator/)
 
@@ -19,7 +19,7 @@ description: Все про использование газа
 
 Мобильное приложение для заказа газовых балонов для [Android](https://play.google.com/store/apps/details?id=lk.litro.fixel) и для [iPhone](https://apps.apple.com/ru/app/litro-home-delivery/id1501085017)
 
-## Laugfhs Gas (желтые баллоны)
+## Laugfs Gas (желтые баллоны) {#laugfs-gas}
 
 [Контакты и цены на газ, но на сингальском.](https://www.laugfsgas.lk/pop.php)
 
