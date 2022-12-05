@@ -3,7 +3,7 @@ sidebar_position: 14
 description: Известные чаты
 ---
 
-# Чаты
+# Чаты {#chats}
 
 Популярные телеграм чаты
 
