@@ -1,6 +1,9 @@
 ---
 sidebar_position: 3
 description: Рекомендации, что можно взять с собой
+keywords:
+  - поездка
+  - вещи
 ---
 
 # Вещи в поездку {#things}

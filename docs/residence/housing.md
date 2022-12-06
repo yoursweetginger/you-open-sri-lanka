@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 description: Поиск, аренда, условия
+keywords:
+  - жилье
+  - аренда
 ---
 
 # Жилье {#housing}

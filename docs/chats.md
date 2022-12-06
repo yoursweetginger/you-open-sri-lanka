@@ -1,6 +1,8 @@
 ---
 sidebar_position: 14
 description: Известные чаты
+keywords:
+  - чаты
 ---
 
 # Чаты {#chats}

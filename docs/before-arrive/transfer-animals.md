@@ -1,6 +1,9 @@
 ---
 sidebar_position: 3
 description: Порядок перевозки домашнего животного
+keywords:
+  - животные
+  - трансфер
 ---
 
 # Перевоз домашнего животного {#transfer-animals}

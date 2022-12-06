@@ -1,6 +1,8 @@
 ---
 sidebar_position: 2
 description: Поиск и список интересных мест
+keywords:
+  - достопримечательности
 ---
 
 # Достопримечательности {#attractions}

@@ -1,6 +1,9 @@
 ---
 sidebar_position: 7
 description: Где и какие товары можно найти на Шри-Ланке
+keywords:
+  - продукты
+  - товары
 ---
 
 # Продукты и товары {#products-goods}
