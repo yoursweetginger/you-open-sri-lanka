@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'You open - Sri-Lanka',
+  title: 'You open - Шри-Ланка',
   tagline: 'Гайд для туристов и экспатов',
   url: 'https://sri-lanka.you-open.com/',
   baseUrl: '/',
@@ -73,7 +73,7 @@ const config = {
       image: 'img/sri-lanka_flag.png',
       navbar: {
         hideOnScroll: true,
-        title: 'You open - Sri-Lanka',
+        title: 'Шри-Ланка',
         logo: {
           alt: 'You open - Sri-Lanka Logo',
           src: 'img/Flag_of_Sri_Lanka.svg',
@@ -164,6 +164,7 @@ const config = {
       //     },
       //   ],
       // ]
+      metadata: [{name: 'You open - Шри-Ланка', content: 'Гайд для туристов и экспатов'}],
     }),
 
   plugins:[[ require.resolve('docusaurus-lunr-search'), {
