@@ -5,10 +5,14 @@ description: Информация о гайде
 
 # О гайде {#about-guide}
 
+Данный гайд не несет какую-то коммерческую цель, следует добросоветному использованию контента и открыт в использовании и редактировании.
+
+## Лицензия
+
+Текстовая (документальная) часть доступна по [лицензии CC0](https://creativecommons.org/choose/zero/?lang=ru). Кодовая часть доступна по [лицензии GNU-GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
 ## Источники информации {#source-information}
 
-- [Велигамность - FAQ](https://telegra.ph/FAQ-poleznye-ssylki-pravila-chata-03-28)
-- [South Ceylon Rent - Blog](https://southceylon.com/blog)
 - [Hikka.ru](https://hikka.ru/)
 - [Телеграм канал - Шри-Ланка (sun-lanka.ru)](https://t.me/Shri_Lanka_RU)
 - [Lanka.ru](https://lanka.ru/)
