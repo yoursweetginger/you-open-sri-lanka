@@ -3,9 +3,15 @@ sidebar_position: 14
 description: Известные чаты
 ---
 
-# Чаты {#chats}
+# Ресурсы по Шри-Ланке {#resources}
 
-Популярные телеграм чаты
+## Сайты {#sites}
+
+- [Солнце Шри Ланки](https://sun-lanka.ru/)
+- [Lanka.ru](https://lanka.ru/)
+- [Hikka.ru](https://hikka.ru/)
+
+## Чаты {#chats}
 
 - [Шри-Ланка (sun-lanka.ru)](https://t.me/Shri_Lanka_RU)
 - [Шри-Ланка (Эмигранты 360)](https://t.me/srilanka_forum)
