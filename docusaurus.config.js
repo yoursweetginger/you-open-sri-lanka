@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'You open - Sri-Lanka',
-  tagline: 'Гайд для туристов и экспатов',
+  title: 'You open - Шри-Ланка',
+  tagline: 'Гайд для туристов и экспатов по Шри-Ланке',
   url: 'https://sri-lanka.you-open.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -41,6 +41,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          showLastUpdateTime: true,
           editUrl:
             'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
         },
@@ -73,7 +74,7 @@ const config = {
       image: 'img/sri-lanka_flag.png',
       navbar: {
         hideOnScroll: true,
-        title: 'You open - Sri-Lanka',
+        title: 'Шри-Ланка',
         logo: {
           alt: 'You open - Sri-Lanka Logo',
           src: 'img/Flag_of_Sri_Lanka.svg',
@@ -95,8 +96,8 @@ const config = {
           },
         ],
       },
-      // footer: {
-      //   style: 'dark',
+      footer: {
+        style: 'dark',
       //   links: [
       //     {
       //       title: 'Docs',
@@ -138,8 +139,8 @@ const config = {
       //       ],
       //     },
       //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} You open. Built with Docusaurus.`,
-      // },
+        copyright: `You open.`,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
@@ -164,6 +165,7 @@ const config = {
       //     },
       //   ],
       // ]
+      metadata: [{name: this.title, content: this.tagline}],
     }),
 
   plugins:[[ require.resolve('docusaurus-lunr-search'), {
