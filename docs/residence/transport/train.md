@@ -12,7 +12,7 @@ keywords:
 - [Расписание поездов (1-й вариант)](https://slr.malindaprasad.com/index.php)
 - [Расписание поездов (2-й вариант)](https://eservices.railway.gov.lk/schedule/searchTrain.action?lang=en)
 - [Покупка билета 1 класса](https://seatreservation.railway.gov.lk/mtktwebslr/)
-- [Карта железнодорожной сети](/img/railway_network.jpg)
+- [Карта железнодорожной сети](pathname:///img/railway_network.jpg)
 - [Интерактивная карта железнодорожной сети](https://www.google.com/maps/d/u/0/viewer?mid=1TxYCaTFi5rn0oONbEubZR41l18g&ll=7.845378315990971%2C81.30755938159281&z=8)
 
 Поезда ходят по расписанию, но могут опаздывать на 5-20 минут.

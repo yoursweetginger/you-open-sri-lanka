@@ -37,9 +37,9 @@ keywords:
 
 У вас также должны быть следующие документы:
 
-- [Действующая лицензия на транспортное средство](/img/vehicle_revenue_license.jpg)
-- [Страховка на транспортное средство](/img/certificate_of_insurance.jpg)
-- [Пройденный тест на выбросы](/img/vehicle_emission_test_certificate.jpg)
+- [Действующая лицензия на транспортное средство](pathname:///img/vehicle_revenue_license.jpg)
+- [Страховка на транспортное средство](pathname:///img/certificate_of_insurance.jpg)
+- [Пройденный тест на выбросы](pathname:///img/vehicle_emission_test_certificate.jpg)
 
 ## Страховка {#insurance}
 

@@ -21,7 +21,7 @@ keywords:
 - [Маршруты](https://sun-lanka.ru/transport-sri-lanka/avtobusi/marshruty-napravleniya.html)
 - [Карта маршрутов](https://sun-lanka.ru/transport-sri-lanka/avtobusi/marshruty-na-russkom-karta.html)
 
-## Покупка билета {buying-ticket}
+## Покупка билета {#buying-ticket}
 
 В междугородних автобусах одной провинции билет можно купить у кондуктора в автобусе. Приобрести билет заранее можно только на дальнемагистральные направления. Это удобно сделать [онлайн](http://www.ntcbooking.lk/master/login.php).
 
