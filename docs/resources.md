@@ -1,6 +1,10 @@
 ---
 sidebar_position: 14
-description: Известные чаты
+description: Ресурсы, сайты, чаты по Шри-Ланке
+keywords:
+  - ресурсы
+  - чаты
+  - сайты
 ---
 
 # Ресурсы по Шри-Ланке {#resources}
