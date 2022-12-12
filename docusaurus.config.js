@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'You open - Шри-Ланка',
-  tagline: 'Гайд для туристов и экспатов',
+  tagline: 'Гайд для туристов и экспатов по Шри-Ланке',
   url: 'https://sri-lanka.you-open.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -96,8 +96,8 @@ const config = {
           },
         ],
       },
-      // footer: {
-      //   style: 'dark',
+      footer: {
+        style: 'dark',
       //   links: [
       //     {
       //       title: 'Docs',
@@ -139,8 +139,8 @@ const config = {
       //       ],
       //     },
       //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} You open. Built with Docusaurus.`,
-      // },
+        copyright: `You open.`,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
@@ -165,7 +165,7 @@ const config = {
       //     },
       //   ],
       // ]
-      metadata: [{name: 'You open - Шри-Ланка', content: 'Гайд для туристов и экспатов'}],
+      metadata: [{name: this.title, content: this.tagline}],
     }),
 
   plugins:[[ require.resolve('docusaurus-lunr-search'), {
