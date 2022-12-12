@@ -1,6 +1,8 @@
 ---
 sidebar_position: 4
 description: Цены, виды и поиск услуг
+keywords:
+  - услуги
 ---
 
 # Услуги {#services}

@@ -1,6 +1,8 @@
 ---
 sidebar_position: 13
 description: Открытие, ведение бизнеса
+keywords:
+  - бизнес
 ---
 
 # Бизнес {#business}

@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 description: Туры, экскурсии
+keywords:
+  - туры
+  - экскурсии
 ---
 
 # Эксукурсии {#tours}

@@ -1,6 +1,8 @@
 ---
 # sidebar_position: 5
 description: Праздники, официальные выходные.
+keywords:
+  - праздники
 ---
 
 # Официальные праздники {#holidays}

@@ -1,6 +1,12 @@
 ---
 sidebar_position: 1
 description: Условия въезда в страну
+keywords:
+  - условия
+  - вакцина
+  - covid
+  - коронавирус
+  - таможня
 ---
 
 # Условия въезда {#entry-conditions}
