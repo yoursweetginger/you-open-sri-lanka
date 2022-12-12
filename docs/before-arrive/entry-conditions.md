@@ -11,7 +11,7 @@ keywords:
 
 # Условия въезда {#entry-conditions}
 
-С 07.12.22 отменены ковидные ограничения, тоесть для въезда в страну, более не требуется наличии сертификата о вакцинации или ПЦР-теста.
+[С 07.12.22 отменены ковидные ограничения](http://www.health.gov.lk/moh_final/english/public/elfinder/files/feturesArtical/Preventive%20measures%20for%20persons%20arriving%20from%20overseas%20during%20the%20pandemic%20of%20COVID-l9%202022%2012%2006.pdf), тоесть для въезда в страну, более не требуется наличии сертификата о вакцинации или ПЦР-теста.
 
 ## Условя для всех {#for-all}
 
