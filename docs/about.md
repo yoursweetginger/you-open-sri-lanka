@@ -9,7 +9,7 @@ description: Информация о гайде
 
 ## Лицензия
 
-Текстовая (документальная) часть доступна по [лицензии CC0](https://creativecommons.org/choose/zero/?lang=ru). Кодовая часть доступна по [лицензии GNU-GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Текстовая (документальная) часть доступна по [лицензии CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ru). Кодовая часть доступна по [лицензии GNU-GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## Источники информации {#source-information}
 
