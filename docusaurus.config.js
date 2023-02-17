@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ComradeAx0n', // Usually your GitHub org/user name.
+  organizationName: 'yoursweetginger', // Usually your GitHub org/user name.
   projectName: 'you-open-sri-lanka', // Usually your repo name.
 
   // Recomended to set for GitHub Pages deployment
@@ -43,7 +43,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           showLastUpdateTime: true,
           editUrl:
-            'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
+            'https://github.com/yoursweetginger/you-open-sri-lanka/tree/master',
         },
         // blog: {
         //   id: 'events',
@@ -55,7 +55,7 @@ const config = {
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
-        //     'https://github.com/ComradeAx0n/you-open-sri-lanka/tree/master',
+        //     'https://github.com/yoursweetginger/you-open-sri-lanka/tree/master',
         // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -89,7 +89,7 @@ const config = {
           // Не работает блог если поменять путь
           // {to: './events', label: 'Эвенты', position: 'left'},
           {
-            href: 'https://github.com/ComradeAx0n/you-open-sri-lanka',
+            href: 'https://github.com/yoursweetginger/you-open-sri-lanka',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
