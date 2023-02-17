@@ -17,6 +17,7 @@ keywords:
 
 ## Чаты {#chats}
 
+- [ОТЪЕХАВШИЕ](https://t.me/not_vacation_civitas)
 - [Шри-Ланка (sun-lanka.ru)](https://t.me/Shri_Lanka_RU)
 - [Шри-Ланка (Эмигранты 360)](https://t.me/srilanka_forum)
 - [Шри-Ланка (lanka.ru)](https://t.me/lankaru)
@@ -24,7 +25,7 @@ keywords:
 
 :::danger
 
-Рекомендуется воздержаться от контактов с администрацией чата [ВЕЛИГАМНОСТЬ](https://t.me/weligamnost), из-за [агрессивного отношения к пользователям](other.md#weligamnost-southceylon).
+Рекомендуется воздержаться от контактов с администрацией чата [ВЕЛИГАМНОСТЬ](https://t.me/weligamnost), из-за [агрессивного отношения к пользователям](other.md#negative-experience).
 
 :::
 
