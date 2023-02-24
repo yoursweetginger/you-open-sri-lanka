@@ -139,7 +139,7 @@ const config = {
       //       ],
       //     },
       //   ],
-        copyright: `You open.`,
+        copyright: `You open. Лицензия CC BY-NC-SA 4.0`,
       },
       prism: {
         theme: lightCodeTheme,
